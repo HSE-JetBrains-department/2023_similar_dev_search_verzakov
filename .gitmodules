@@ -1,0 +1,10 @@
+
+[submodule "tests/repos/2022_similar_dev_search_petropavlovskiy"]
+	path = tests/repos/2022_similar_dev_search_petropavlovskiy
+	url = https://github.com/HSE-JetBrains-department/2022_similar_dev_search_petropavlovskiy.git
+[submodule "tests/repos/2022_similar_dev_search_skrypnikov"]
+	path = tests/repos/2022_similar_dev_search_skrypnikov
+	url = https://github.com/HSE-JetBrains-department/2022_similar_dev_search_skrypnikov.git
+[submodule "tests/repos/2022_similar_dev_search_kononov"]
+	path = tests/repos/2022_similar_dev_search_kononov
+	url = https://github.com/HSE-JetBrains-department/2022_similar_dev_search_kononov.git
